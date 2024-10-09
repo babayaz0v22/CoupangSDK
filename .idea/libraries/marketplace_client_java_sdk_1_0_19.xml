@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="marketplace-client-java-sdk-1.0.19">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CoupangMWSJavaClientSDK-1.0.19/dist/marketplace-client-java-sdk-1.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

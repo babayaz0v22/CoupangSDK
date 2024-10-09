@@ -1,0 +1,5 @@
+com.coupang.marketplace.client
+com.coupang.marketplace.client.api
+com.coupang.marketplace.client.auth
+com.coupang.marketplace.client.model.product
+com.coupang.marketplace.client.util
