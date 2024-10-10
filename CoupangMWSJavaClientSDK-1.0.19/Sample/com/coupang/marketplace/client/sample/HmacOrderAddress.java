@@ -26,7 +26,7 @@ public class HmacOrderAddress {
     public void test() {
         //params
         String method = "GET";
-        String path = "/v2/providers/openapi/apis/api/v4/vendors/A00462959/32100059958560/ordersheets";
+        String path = "/v2/providers/openapi/apis/api/v4/vendors/A00462959/14100073279990/ordersheets";
 
         //replace with your own product registration json data
         String strjson="{}";
